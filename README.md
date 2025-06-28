@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Do Thai Son</h1>
 
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sondts-ai&show_icons=true&theme=github_dark&hide=prs" />
@@ -23,13 +23,13 @@
 
 ---
 
-## 🚀 Popular Repositories
+# 🚀 Popular Repositories
 
 
 
 ---
 
-## 🏆 Contributions
+# 🏆 Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sondts-ai&theme=github-compact" />
